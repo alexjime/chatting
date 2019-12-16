@@ -1,4 +1,4 @@
-package multi_server;
+package chatting;
 
 import java.util.Vector;
 
